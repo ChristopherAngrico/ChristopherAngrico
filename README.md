@@ -16,8 +16,8 @@
 <p align="left"><br>- 💻 I'm a programmer specializing in game development.<br>- 🎮 I'm enthusiastic about creating interactive and immersive gaming experiences.<br>- 🔧 I enjoy tackling technical challenges and solving problems to make games more enjoyable.<br>- 🌐 I'm constantly learning and exploring new technologies to stay at the forefront of game development.</p>
 
 ###
-<img height="30" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" />
-<h3 align="left">🛠 Language and tools</h3>
+
+<h3 align="left"><img height="30" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" /> Language and tools</h3>
 
 ###
 
