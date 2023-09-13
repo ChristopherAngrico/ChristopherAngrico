@@ -17,7 +17,12 @@
 
 ###
 
-<h3 align="left"><img height="15" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" /> Language and tools</h3>
+<h3 align="left"><img height="15" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" /> Project </h3>
+Here are some of the projects you can explore:
+
+- [Project 1](link_to_project_1): Brief description of project 1.
+- [Project 2](link_to_project_2): Brief description of project 2.
+- [Project 3](link_to_project_3): Brief description of project 3.
 
 ###
 
