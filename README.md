@@ -13,7 +13,10 @@
 
 ###
 
-<p align="left"><br>- 💻 I'm a programmer specializing in game development.<br>- 🎮 I'm enthusiastic about creating interactive and immersive gaming experiences.<br>- 🔧 I enjoy tackling technical challenges and solving problems to make games more enjoyable.<br>- 🌐 I'm constantly learning and exploring new technologies to stay at the forefront of game development.</p>
+- 💻 I'm a programmer specializing in game development.
+- 🎮 I'm enthusiastic about creating interactive and immersive gaming experiences.
+- 🔧 I enjoy tackling technical challenges and solving problems to make games more enjoyable.
+- 🌐 I'm constantly learning and exploring new technologies to stay at the forefront of game development.</p>
 
 ###
 
