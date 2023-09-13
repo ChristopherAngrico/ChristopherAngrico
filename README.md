@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="left"><img height="30" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" /> Language and tools</h3>
+<h3 align="left"><img height="20" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" /> Language and tools</h3>
 
 ###
 
