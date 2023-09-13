@@ -24,7 +24,7 @@
 Here are some of the projects you can explore:
 
 - Project 1: [itch.io](https://cloudyxxx.itch.io/purgatory)
-- Project 2: [itch.io]{https://bbbiji.itch.io/slime-apocalypse}
+- Project 2: [itch.io](https://bbbiji.itch.io/slime-apocalypse)
 
 ###
 
