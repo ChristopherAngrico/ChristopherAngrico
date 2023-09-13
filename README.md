@@ -30,11 +30,8 @@ Here are some of the projects you can explore:
 ###
 
 <div align="left">
-  <img src="" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://i.redd.it/tu3gt6ysfxq71.png" height="40" alt="Unity"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="40" alt="C#"  />
+<img src="https://i.redd.it/tu3gt6ysfxq71.png" height="40" alt="Unity"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="40" alt="C#"  />
   
 </div>
 
