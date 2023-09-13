@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">x<br><br>- 🔭 I’m working as Programmer<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">x<br>- 💻 I'm a programmer specializing in game development.<br>- 🎮 I'm enthusiastic about creating interactive and immersive gaming experiences.<br>- 🔧 I enjoy tackling technical challenges and solving problems to make games more enjoyable.<br>- 🌐 I'm constantly learning and exploring new technologies to stay at the forefront of game development.</p>
 
 ###
 
