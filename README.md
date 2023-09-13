@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello, I'm Christopher Angrico 👋</h1>
+<h1 align="center">Hello, I'm Christopher Angrico 👋 <br>I'm a passionate game developer with a focus on programming. Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions to the world of game development.</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a passionate game developer with a focus on programming. Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions to the world of game development.<br><br>- 🔭 I’m working as Programmer<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">x<br><br>- 🔭 I’m working as Programmer<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
