@@ -47,13 +47,13 @@ Here are some of the projects you can explore:
 </div>
 
 ###
+<h3 align="left">Contact</h3>
+Feel free to reach out to me:
 
-<h3 align="left">🔥   My Stats :</h3>
+- Email: [youremail@example.com](mailto:youremail@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- Twitter: [Your Twitter Profile](https://twitter.com/yourusername)
 
-###
+Let's connect and chat about game development, programming, or anything else you'd like to discuss!
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+Thanks for visiting my GitHub profile. Happy gaming! 🎮
