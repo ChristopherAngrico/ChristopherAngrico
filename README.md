@@ -54,9 +54,8 @@ Here are some of the projects you can explore:
 Feel free to reach out to me:
 
 - Email: [christopherangrico82@gmail.com](mailto:christopherangrico82@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/christopher-angrico-47869523a/)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourusername)
-
+- LinkedIn: [Linkedin profile](https://www.linkedin.com/in/christopher-angrico-47869523a/)
+  
 Let's connect and chat about game development, programming, or anything else you'd like to discuss!
 
 Thanks for visiting my GitHub profile. Happy gaming! 🎮
