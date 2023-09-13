@@ -11,7 +11,7 @@
 
 ###
 
-<h1 align="center">Hello 👋</h1>
+<h1 align="center">Hello my name is Christopher Angrico</h1>
 
 ###
 
