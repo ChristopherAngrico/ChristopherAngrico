@@ -31,7 +31,7 @@ Here are some of the projects you can explore:
 
 <div align="left">
 <img src="https://i.redd.it/tu3gt6ysfxq71.png" height="40" alt="Unity"  />
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="40" alt="C#"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="50" alt="C#"  />
   
 </div>
 
