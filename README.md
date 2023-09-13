@@ -53,7 +53,7 @@ Here are some of the projects you can explore:
 <h3 align="left">Contact</h3>
 Feel free to reach out to me:
 
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- Email: [christopherangrico82@gmail.com](mailto:christopherangrico82@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
 - Twitter: [Your Twitter Profile](https://twitter.com/yourusername)
 
