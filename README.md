@@ -12,6 +12,7 @@
 ###
 
 <h1 align="center">Hello, I'm Christopher Angrico 👋</h1>
+<h3 align="center">I'm a passionate game developer with a focus on programming. Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions to the world of game development.</h3>
 
 ###
 
