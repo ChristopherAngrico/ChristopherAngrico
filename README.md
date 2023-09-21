@@ -15,8 +15,8 @@
 
 <h3 align="left">👨‍💻  About Me</h3>
 
-- 🌟 Greetings! I'm Christopher Angrico, an awe-inspiring programmer who ventures into the enchanting realm of game development.
-- 🎮 I'm a maestro of crafting interactive and immersive gaming experiences that transport players to extraordinary worlds.
+- 🌟 Greetings! I'm Christopher Angrico, I'm a programmer specializing in game development.
+- 🎮  I'm enthusiastic about creating interactive and immersive gaming experiences.
 - 🛠️ I revel in conquering complex challenges, adding magic to gameplay, and ensuring every moment in the game is a masterpiece.
 - 🚀 My journey is a relentless quest for knowledge, where I harness cutting-edge technologies to redefine the art of game development.
 
