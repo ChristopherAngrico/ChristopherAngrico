@@ -15,10 +15,6 @@
 
 <h3 align="left">👨‍💻  About Me</h3>
 
-<p align="left">
-  <img src="https://img.icons8.com/fluent/96/000000/developer.png" alt="Developer Icon" width="96" height="96" />
-</p>
-
 - 🌟 Greetings! I'm Christopher Angrico, an awe-inspiring programmer who ventures into the enchanting realm of game development.
 - 🎮 I'm a maestro of crafting interactive and immersive gaming experiences that transport players to extraordinary worlds.
 - 🛠️ I revel in conquering complex challenges, adding magic to gameplay, and ensuring every moment in the game is a masterpiece.
@@ -27,7 +23,7 @@
 <h3 align="left">🚀 Featured Projects</h3>
 
 <p align="left">
-  <img src="https://img.icons8.com/plasticine/96/000000/controller.png" alt="Controller Icon" width="96" height="96" />
+  <img src="https://cdn-icons-png.flaticon.com/512/831/831664.png" alt="Controller Icon" width="96" height="96" />
 </p>
 
 Dive into my captivating creations:
