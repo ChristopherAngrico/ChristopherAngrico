@@ -23,7 +23,7 @@
 <h3 align="left">🚀 Featured Projects</h3>
 
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/831/831664.png" alt="Controller Icon" width="96" height="96" />
+  <h3 align="left"><img height="15" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" /> Project </h3>
 </p>
 
 Dive into my captivating creations:
