@@ -18,7 +18,7 @@
 - 🌟 Greetings! I'm Christopher Angrico, I'm a programmer specializing in game development.
 - 🎮  I'm enthusiastic about creating interactive and immersive gaming experiences.
 - 🛠️ I enjoy overcoming technical challenges and solving problems to make games more fun.
-- 🚀 My journey is a relentless quest for knowledge, where I harness cutting-edge technologies to redefine the art of game development.
+- 🌱 I’m currently learning Unreal Engine C++ and blueprint.
 
 <h3 align="left"><img height="15" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" /> Project</h3>
 
