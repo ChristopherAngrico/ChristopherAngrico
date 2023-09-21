@@ -27,12 +27,6 @@ Dive into my captivating creations:
   <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" alt="C# Icon" width="96" height="96" />
 </div>
 
-<h3 align="left">🌟 Connect with Me</h3>
-
-<p align="left">
-  <img src="https://img.icons8.com/fluent/96/000000/email.png" alt="Email Icon" width="96" height="96" />
-</p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ChristopherAngrico&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChristopherAngrico&theme=merko&hide_border=false)
