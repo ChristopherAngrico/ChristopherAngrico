@@ -20,10 +20,10 @@
 - 🛠️ I revel in conquering complex challenges, adding magic to gameplay, and ensuring every moment in the game is a masterpiece.
 - 🚀 My journey is a relentless quest for knowledge, where I harness cutting-edge technologies to redefine the art of game development.
 
-<h3 align="left">🚀 Featured Projects</h3>
+<h3 align="left"><img height="15" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" /> Project</h3>
 
 <p align="left">
-  <h3 align="left"><img height="15" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" /> Project </h3>
+ 
 </p>
 
 Dive into my captivating creations:
