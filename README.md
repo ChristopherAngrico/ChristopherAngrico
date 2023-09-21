@@ -42,7 +42,12 @@ Dive into my captivating creations:
   <img src="https://img.icons8.com/fluent/96/000000/email.png" alt="Email Icon" width="96" height="96" />
 </p>
 
-Ready for an epic collaboration? Reach out:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ChristopherAngrico&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChristopherAngrico&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherAngrico&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+Want to contact me? Reach out:
 
 - 📧 Email: [christopherangrico82@gmail.com](mailto:christopherangrico82@gmail.com)
 - 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/christopher-angrico-47869523a/)
