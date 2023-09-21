@@ -4,15 +4,6 @@
 
 <h1 align="center">🚀 Let's get to know each other 🚀</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/christopher-angrico-47869523a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Christopher%20Angrico-blue" alt="LinkedIn Badge">
-  </a>
-  <a href="mailto:christopherangrico82@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-green" alt="Email Badge">
-  </a>
-</p>
-
 <h3 align="left">👨‍💻  About Me</h3>
 
 - 🌟 Greetings! I'm Christopher Angrico, I'm a programmer specializing in game development using Unity Engine.
@@ -48,9 +39,8 @@ Dive into my captivating creations:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherAngrico&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 Want to contact me? Reach out:
-
-- 📧 Email: [christopherangrico82@gmail.com](mailto:christopherangrico82@gmail.com)
-- 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/christopher-angrico-47869523a/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/christopher_angrico/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-angrico-47869523a/)
   
 Let's ignite the flames of creativity and discuss game development, programming, or any other grand adventure that beckons!
 
