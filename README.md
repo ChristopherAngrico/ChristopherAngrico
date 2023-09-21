@@ -15,7 +15,7 @@
 
 <h3 align="left">👨‍💻  About Me</h3>
 
-- 🌟 Greetings! I'm Christopher Angrico, I'm a programmer specializing in game development.
+- 🌟 Greetings! I'm Christopher Angrico, I'm a programmer specializing in game development using Unity Engine.
 - 🎮  I'm enthusiastic about creating interactive and immersive gaming experiences.
 - 🛠️ I enjoy overcoming technical challenges and solving problems to make games more fun.
 - 🌱 I’m currently learning Unreal Engine C++ and blueprint.
