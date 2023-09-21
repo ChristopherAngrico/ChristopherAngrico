@@ -38,7 +38,7 @@ Dive into my captivating creations:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChristopherAngrico&theme=merko&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherAngrico&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Want to contact me? Reach out:
+Want to contact me? Reach out: <br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/christopher_angrico/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-angrico-47869523a/)
   
