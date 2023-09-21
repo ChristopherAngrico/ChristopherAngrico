@@ -9,7 +9,7 @@
 - 💻 I'm a programmer specializing in game development.
 - 🎮 I'm enthusiastic about creating interactive and immersive gaming experiences.
 - 🔧 I enjoy tackling technical challenges and solving problems to make games more enjoyable.
-- 🌐 I'm constantly learning and exploring new technologies to stay at the forefront of game development.
+- 🌱 I’m currently learning Unreal Engine C++ and blueprint
 
 <h3 align="left"><img height="15" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" /> Projects</h3>
 
