@@ -2,8 +2,6 @@
   <img height="200" src="https://ksr-ugc.imgix.net/assets/011/160/984/4dbf0a3778972aacfda82bbd3c7f0023_original.gif?ixlib=rb-4.1.0&w=680&fit=max&v=1462939540&gif-q=50&q=92&s=ce408b76d967ea65408f3b9ffb584278"  />
 </div>
 
-<h1 align="center">🚀 Let's get to know each other 🚀</h1>
-
 <h3 align="left">👨‍💻  About Me</h3>
 
 - 🌟 Greetings! I'm Christopher Angrico, I'm a programmer specializing in game development using Unity Engine.
@@ -26,11 +24,6 @@ Dive into my captivating creations:
   <img src="https://img.icons8.com/color/96/000000/unity.png" alt="Unity Icon" width="96" height="96" />
   <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" alt="C# Icon" width="96" height="96" />
 </div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ChristopherAngrico&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChristopherAngrico&theme=merko&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherAngrico&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 Want to contact me? Reach out: <br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/christopher_angrico/) 
