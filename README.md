@@ -1,3 +1,5 @@
+
+https://github.com/ChristopherAngrico/ChristopherAngrico/assets/87889745/c18521bc-456e-43b8-8be1-5b8aa680222e
 <div align="center">
   <img height="200" src="https://ksr-ugc.imgix.net/assets/011/160/984/4dbf0a3778972aacfda82bbd3c7f0023_original.gif?ixlib=rb-4.1.0&w=680&fit=max&v=1462939540&gif-q=50&q=92&s=ce408b76d967ea65408f3b9ffb584278"  />
 </div>
@@ -18,7 +20,9 @@
 Dive into my captivating creations:
 
 - ✨ [Purgatory]() - Embark on a voyage through mysterious realms.
-      <img heigh="10" src="https://user-images.githubusercontent.com/87889745/270718261-bd150fb6-9bb0-4bcf-bc7c-26eafd74f49e.GIF" />
+      ![untitled](https://github.com/ChristopherAngrico/ChristopherAngrico/assets/87889745/c9696d08-8c1a-4005-a945-511f481e8a5d)
+
+
 - 🌟 [Slime Apocalypse](https://bbbiji.itch.io/slime-apocalypse) - Immerse yourself in a world overrun by adorable yet mischievous slimes.
 
 <div align="center">
