@@ -19,7 +19,7 @@
 
 Dive into my captivating creations:
 
-- ✨ [Purgatory](https://github.com/ChristopherAngrico/ChristopherAngrico/assets/87889745/c18521bc-456e-43b8-8be1-5b8aa680222e) - Embark on a voyage through mysterious realms.
+- ✨ [Purgatory]() - Embark on a voyage through mysterious realms.
 
 
 - 🌟 [Slime Apocalypse](https://bbbiji.itch.io/slime-apocalypse) - Immerse yourself in a world overrun by adorable yet mischievous slimes.
