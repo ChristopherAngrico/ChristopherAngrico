@@ -18,7 +18,7 @@
 Dive into my captivating creations:
 
 - ✨ [Purgatory]() - Embark on a voyage through mysterious realms.
-      <img heigh="80" src="https://user-images.githubusercontent.com/87889745/270718261-bd150fb6-9bb0-4bcf-bc7c-26eafd74f49e.GIF" />
+      <img heigh="40" src="https://user-images.githubusercontent.com/87889745/270718261-bd150fb6-9bb0-4bcf-bc7c-26eafd74f49e.GIF" />
 - 🌟 [Slime Apocalypse](https://bbbiji.itch.io/slime-apocalypse) - Immerse yourself in a world overrun by adorable yet mischievous slimes.
 
 <div align="center">
