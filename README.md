@@ -17,8 +17,8 @@
 
 Dive into my captivating creations:
 
-- ✨ [Purgatory]() - Embark on a voyage through mysterious realms.
-    <img height="50" src="https://ksr-ugc.imgix.net/assets/011/160/984/4dbf0a3778972aacfda82bbd3c7f0023_original.gif?ixlib=rb-4.1.0&w=680&fit=max&v=1462939540&gif-q=50&q=92&s=ce408b76d967ea65408f3b9ffb584278"  />  
+- ✨ [Purgatory]() - Embark on a voyage through mysterious realms.<br/>
+    <img height="50" src="https://github.com/ChristopherAngrico/ChristopherAngrico/blob/main/Asset/untitled.GIF?raw=true"  />  
 
 - 🌟 [Slime Apocalypse](https://bbbiji.itch.io/slime-apocalypse) - Immerse yourself in a world overrun by adorable yet mischievous slimes.
 
