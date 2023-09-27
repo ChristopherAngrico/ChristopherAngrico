@@ -21,7 +21,7 @@ Dive into my captivating creations:
     <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/blob/main/Asset/untitled.GIF?raw=true"/><br/>
     
 
-- 🌟 [Slime Apocalypse](https://bbbiji.itch.io/slime-apocalypse) - Immerse yourself in a world overrun by adorable yet mischievous slimes.
+- 🌟 [Slime Apocalypse](https://github.com/ChristopherAngrico/SlimeApocalypse) - Immerse yourself in a world overrun by adorable yet mischievous slimes.
 
 <div align="center">
   <img src="https://img.icons8.com/color/96/000000/unity.png" alt="Unity Icon" width="96" height="96" />
