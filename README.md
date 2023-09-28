@@ -21,9 +21,11 @@
 - 🌟 [Hopeless](https://github.com/ChristopherAngrico/Hopeless-Game) <-- Click here to see more<br/>
     <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/blob/main/Asset/Hopless.GIF?raw=true"/><br/>
 
+<h3 align="left">Skills</h3>
 <div align="center">
   <img src="https://img.icons8.com/color/96/000000/unity.png" alt="Unity Icon" width="96" height="96" />
   <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" alt="C# Icon" width="96" height="96" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNn5I8AD7aRGyf3fyEnec3-PVntegmb2ZG04y-_lI&s" alt="C# Icon" width="96" height="96" />
 </div>
 
 Want to contact me? Reach out: <br/>
