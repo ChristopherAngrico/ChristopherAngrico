@@ -11,13 +11,15 @@
 
 <h3 align="left"><img height="15" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" /> Project</h3>
 
-- ✨ [Purgatory](https://github.com/ChristopherAngrico/Purgatory) <-- Click here <br/>
+- ✨ [Purgatory](https://github.com/ChristopherAngrico/Purgatory) <-- Click here to see more<br/>
     <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/blob/main/Asset/untitled.GIF?raw=true"/><br/>
     <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/assets/87889745/9bb2efab-c260-49c8-85f2-ea8985396dff"/>
 
-- 🌟 [Slime Apocalypse](https://github.com/ChristopherAngrico/SlimeApocalypse) <-- Click here  <br/>
+- 🌟 [Slime Apocalypse](https://github.com/ChristopherAngrico/SlimeApocalypse) <-- Click here to see more<br/>
     <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/blob/main/Asset/270643786-5352baf2-386b-4e9d-805e-c8a6a13e9696.gif?raw=true"/><br/>
-  
+
+- 🌟 [Hopeless]() <-- Click here to see more<br/>
+    <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/blob/main/Asset/270643786-5352baf2-386b-4e9d-805e-c8a6a13e9696.gif?raw=true"/><br/>
 
 <div align="center">
   <img src="https://img.icons8.com/color/96/000000/unity.png" alt="Unity Icon" width="96" height="96" />
