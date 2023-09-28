@@ -29,7 +29,3 @@
 Want to contact me? Reach out: <br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/christopher_angrico/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-angrico-47869523a/)
-  
-Let's ignite the flames of creativity and discuss game development, programming, or any other grand adventure that beckons!
-
-Thanks for entering my GitHub cosmos. Prepare to embark on a breathtaking gaming odyssey! 🎮🌟✨
