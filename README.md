@@ -25,8 +25,8 @@
 <div align="center">
   <img src="https://img.icons8.com/color/96/000000/unity.png" alt="Unity Icon" width="96" height="96" />
   <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" alt="C# Icon" width="96" height="96" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNn5I8AD7aRGyf3fyEnec3-PVntegmb2ZG04y-_lI&s" alt="C# Icon" width="96" height="96" />
-  <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" alt="C# Icon" width="96" height="96" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNn5I8AD7aRGyf3fyEnec3-PVntegmb2ZG04y-_lI&s" alt="C++ Icon" width="96" height="96" />
+  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwzObpMwznsb9dsw-wzZiuFWLZy_bEVD1xexA-YvgQPJt1ffmUugDWDKCC-4PdStvZ9pc&usqp=CAU" alt="Java Icon" width="96" height="96" />
 </div>
 
 Want to contact me? Reach out: <br/>
