@@ -12,8 +12,6 @@
 <h3 align="left"><img height="15" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" /> Project</h3>
 
 - ✨ [Purgatory](https://github.com/ChristopherAngrico/Purgatory) <-- Click here to see more<br/>
-    <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/blob/main/Asset/untitled.GIF?raw=true"/><br/>
-    <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/assets/87889745/03fbd20d-e780-4f27-b5fc-4ef31b827781"/>
     <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/assets/87889745/11f90ba9-b559-4cd5-a185-99a92228bdb1"/>
 
 
