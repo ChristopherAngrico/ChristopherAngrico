@@ -13,7 +13,9 @@
 
 - ✨ [Purgatory](https://github.com/ChristopherAngrico/Purgatory) <-- Click here to see more<br/>
     <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/blob/main/Asset/untitled.GIF?raw=true"/><br/>
-    <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/assets/87889745/9bb2efab-c260-49c8-85f2-ea8985396dff"/>
+    <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/assets/87889745/03fbd20d-e780-4f27-b5fc-4ef31b827781"/>
+    <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/assets/87889745/11f90ba9-b559-4cd5-a185-99a92228bdb1"/>
+
 
 - 🌟 [Slime Apocalypse](https://github.com/ChristopherAngrico/SlimeApocalypse) <-- Click here to see more<br/>
     <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/blob/main/Asset/270643786-5352baf2-386b-4e9d-805e-c8a6a13e9696.gif?raw=true"/><br/>
