@@ -19,7 +19,7 @@
     <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/blob/main/Asset/270643786-5352baf2-386b-4e9d-805e-c8a6a13e9696.gif?raw=true"/><br/>
 
 - 🌟 [Hopeless](https://github.com/ChristopherAngrico/Hopeless-Game) <-- Click here to see more<br/>
-    <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/assets/87889745/d9f56ab7-471c-455f-9865-caa181e87dca"/> <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/assets/87889745/4e778d16-e38e-4fb6-8147-a935540cddc3"/><br/>
+    <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/assets/87889745/4e778d16-e38e-4fb6-8147-a935540cddc3"/><br/>
 
 <h3 align="left">Skills</h3>
 <div align="center">
