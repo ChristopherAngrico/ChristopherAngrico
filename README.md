@@ -22,6 +22,11 @@
 - 🌟 [Hopeless](https://github.com/ChristopherAngrico/Hopeless-Game) <-- Click here to see more<br/>
     <img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/assets/87889745/4e778d16-e38e-4fb6-8147-a935540cddc3"/><br/>
 
+- 🌟 [Fruit ninja](https://github.com/ChristopherAngrico/Hopeless-Game) <-- Click here to see more<br/>
+<img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/assets/87889745/6995a76c-bbdc-4d64-bd89-6a7c5c886936"/><br/>
+<img height="150" src="https://github.com/ChristopherAngrico/ChristopherAngrico/assets/87889745/f5a1042c-1076-4336-92cf-8d653207edeb"/><br/>
+
+
 <h3 align="left">Skills</h3>
 <div align="center">
   <img src="https://img.icons8.com/color/96/000000/unity.png" alt="Unity Icon" width="96" height="96" />
