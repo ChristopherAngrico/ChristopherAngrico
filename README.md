@@ -36,7 +36,7 @@
 </div>
 
 ### Portfolio
-{Portofolio](https://christopherangrico.github.io/)
+Website link: https://christopherangrico.github.io/
 <br/>
 <br/>
 Want to contact me? Reach out: <br/>
