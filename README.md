@@ -36,7 +36,7 @@
 </div>
 
 ### Portfolio
-- 🌟 [Fruit ninja](https://github.com/ChristopherAngrico/FruitNinja) <-- Click here to see more<br/>
+{Portofolio](https://christopherangrico.github.io/)
 <br/>
 <br/>
 Want to contact me? Reach out: <br/>
