@@ -36,7 +36,9 @@
 </div>
 
 ### Portfolio
-
+- 🌟 [Fruit ninja](https://github.com/ChristopherAngrico/FruitNinja) <-- Click here to see more<br/>
+<br/>
+<br/>
 Want to contact me? Reach out: <br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/christopher_angrico/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-angrico-47869523a/)
