@@ -1,6 +1,4 @@
-<h3 align="left">Hi there ✨</h3>
-
-<h3 align="left">👨‍💻  About Me</h3>
+## Hi there
 I'm Christopher
 a dedicate game developer for creating some games. Currently, i'm pursuing my degree in Game Applicatioan and Technology at Bina Nusantara University.
 
