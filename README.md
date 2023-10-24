@@ -1,5 +1,5 @@
 <h1> Hi there 🌟</h1>
-I'm Christopher, a dedicate game developer for creating some games. Currently, i'm pursuing my degree in Game Applicatioan and Technology at Bina Nusantara University.
+I'm Christopher, a dedicate game developer. Currently, i'm pursuing my degree in Game Applicatioan and Technology at Bina Nusantara University.
 
 <h3 align="left"><img height="15" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" /> Project</h3>
 
